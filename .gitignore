@@ -1,0 +1,15 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# Logs and database
+*.log
+*.sqlite3
+
+# IDE settings
+.vscode
